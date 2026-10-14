@@ -17,3 +17,23 @@ tur bus informacija par projekta POINT LIST
 - berniem
 - lielam kompaniju
 - [VISEM!]
+## papilda informacija:
+### kada valoda bus uzraksit kods?
+- Python
+- Citi vai Nau
+### kada valoda bus supported šaja programma?
+- Latvieš
+- Krievu
+- Angļu
+- Varbut citie
+### kurš to dari?
+#### revazeetoris
+-Alekss Klavs
+- Alekss Brencis
+#### kods
+- Alekss klavs
+- alekss Brencis
+#### galveno revazetoriju redaktors un ideja no 
+- Alekss Klavs
+#### galvena kodu redaktors un tekstu ideja:
+- Alekss Brencis
