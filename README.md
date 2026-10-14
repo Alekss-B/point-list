@@ -5,18 +5,19 @@ Tur bus informacija par projekta POINT LIST
 - Ierakstirt cilvekus
 - Piešķirt punkti
 - Pievienot komentarius u.c
+- Uzzinat kurš strada viss aktivak 
 ## Kapec šaja programma ir vajadziga?
 ### Mes to darim lai:
-- Lai skolotaji izmanto lai skolniekam bija vairak motivacija macaties
+- Lai skolotaji izmanto šo lai skolniekam bija vairak motivacija macities
 - Lai citi var to izmantot lai viegli skaitit punkti
-- Lai zinat kurš ir labak bet kurš ne
+- Lai zinat kurš ir labak bet kurš sliktais
 ## Kurime to vajag?
-### Kura vecuma un pie kada audetorija tas uzdarits:
-- Jebkurš vecums
-### Kada audetorija
+### Kura vecuma:
+- Jebkura vecuma 
+### Kada audetorija:
 - Skolatajiem un skolniekiem
-- Lielam kompanijam
-- Berniem kuri gribet spele
+- Lielam vai mazam kompanijam
+- Berniem kuri gribetu spele
 - [VISEM!]
 ## Papilda informacija:
 ### Kada valoda bus uzraksit kods?
@@ -26,15 +27,15 @@ Tur bus informacija par projekta POINT LIST
 - Latviešu
 - Krievu
 - Angļu
-- Varbut citie
-### Kurš to dari?
-#### Revazeetoris
+- Varbut citi valodi
+### Kurš to dara?
+#### Revazeetoris:
 - Aleks Klavs
 - Alekss Brencis
-#### Kods
+#### Kods:
 - Aleks Klavs
 - Alekss Brencis
-#### Galveno revazetoriju redaktors un ideja no 
+#### Galveno revazetoriju redaktors un ideja:
 - Aleks Klavs
 #### Galvena kodu redaktors un tekstu ideja:
 - Alekss Brencis
