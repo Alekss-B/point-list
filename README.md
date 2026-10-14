@@ -4,3 +4,4 @@ tur bus informacija par projekta POINT LIST
 point list bus lietotne kur jus var
 - ierakstirt cilvekus
 - piešķirt punkti
+- pievienot komentarius u.c
